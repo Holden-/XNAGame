@@ -1,0 +1,2 @@
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaAppContent\obj\x86\Debug\XnaAppContent.contentprojResolveAssemblyReference.cache
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaAppContent\obj\x86\Debug\XnaAppContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\obj\x86\Debug\XnaApp.csprojResolveAssemblyReference.cache
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\ArcoF.xnb
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\ArcoT.xnb
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\Nave.xnb
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\Nuvem.xnb
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\Vida.xnb
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\bin\x86\Debug\XnaApp.exe
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\bin\x86\Debug\XnaApp.pdb
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\obj\x86\Debug\XnaApp.exe
+C:\Users\Gilbert\Documents\Visual Studio 2010\Projects\XnaApp\XnaApp\XnaApp\obj\x86\Debug\XnaApp.pdb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\ArcoF.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\ArcoT.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\Nave.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\Nuvem.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\Vida.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\XnaApp.exe
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\XnaApp.pdb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\obj\x86\Debug\XnaApp.csprojResolveAssemblyReference.cache
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\obj\x86\Debug\XnaApp.exe
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\obj\x86\Debug\XnaApp.pdb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\mira.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\bullet.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\Nave2.xnb
+C:\Users\JULIAN\Desktop\XnaApp\XnaApp\XnaApp\bin\x86\Debug\Content\Imagens\bullet2.xnb

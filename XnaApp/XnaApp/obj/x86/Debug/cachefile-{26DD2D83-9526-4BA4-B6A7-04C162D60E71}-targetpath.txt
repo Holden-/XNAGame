@@ -1,0 +1,10 @@
+Content\Imagens\ArcoF.xnb
+Content\Imagens\ArcoT.xnb
+Content\Imagens\Nave.xnb
+Content\Imagens\Nuvem.xnb
+Content\Imagens\Vida.xnb
+Content\SpriteFont1.xnb
+Content\Imagens\mira.xnb
+Content\Imagens\bullet.xnb
+Content\Imagens\Nave2.xnb
+Content\Imagens\bullet2.xnb
